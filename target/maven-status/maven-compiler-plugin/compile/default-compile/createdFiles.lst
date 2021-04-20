@@ -1,0 +1,4 @@
+br\com\persistenciaJpql\dao\GenericDAO.class
+br\com\persistenciaJpql\dao\PacienteDAO.class
+br\com\persistenciaJpql\entity\Paciente.class
+br\com\persistenciaJpql\teste\ListarPacienteJPQL.class
