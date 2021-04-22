@@ -3,7 +3,7 @@ Projeto JPQL - FIAP MBA FULLSTACK
 
 Exemplos de utilização de consultas JPQL 
 
-Informações sobre o projeto
+Configuração do projeto
 -----------------------
 
 #### Especificações ####
@@ -12,7 +12,7 @@ Informações sobre o projeto
 	JPA - HIBERNATE
 	MAVEN
 	Oracle Database 11g Express Edition Release 11.2.0.2.0 
-	JUnit
+
 
 #### Classes de entidades ####
 
@@ -20,6 +20,14 @@ Informações sobre o projeto
 * Consulta
 * Especialidade
 * Paciente
+
+#### Classes DAO ####
+
+* AgendamentoDAO
+* ConsultaDAO
+* EspecialidadeDAO
+* PacienteDAO
+* GenericDAO (Classe pai)
 
 #### Classes de testes - Consultas Limitadas ####
 
